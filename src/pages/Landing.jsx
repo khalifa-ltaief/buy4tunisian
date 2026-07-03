@@ -164,10 +164,10 @@ export default function Landing() {
           </div>
 
           {/* Hero Card */}
-          <div style={{
-            opacity: visible ? 1 : 0, transform: visible ? 'none' : 'translateY(30px)',
-            transition: 'all 0.7s ease 0.2s', display: 'flex', justifyContent: 'center',
-          }}>
+         <div className="hero-card-wrapper" style={{
+  opacity: visible ? 1 : 0, transform: visible ? 'none' : 'translateY(30px)',
+  transition: 'all 0.7s ease 0.2s', display: 'flex', justifyContent: 'center',
+}}>
             <div style={{
               background: 'var(--bg3)', border: '1px solid var(--border)',
               borderRadius: 24, padding: 28, width: '100%', maxWidth: 420,

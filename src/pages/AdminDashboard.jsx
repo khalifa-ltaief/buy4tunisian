@@ -176,7 +176,7 @@ export default function AdminDashboard() {
               fontSize: 14, marginBottom: 16, display: 'flex', alignItems: 'center', gap: 6,
             }}>← Back to orders</button>
 
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 320px', gap: 20, alignItems: 'start' }}>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: 20, alignItems: 'start' }}>
 
               {/* Chat */}
               <div className="card" style={{ padding: 0, overflow: 'hidden' }}>
