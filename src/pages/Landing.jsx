@@ -59,9 +59,9 @@ const STEPS = [
 ];
 
 const TESTIMONIALS = [
-  { name: 'Amine B.', city: 'Tunis', text: 'Finally I can access Udemy courses! Got my Python course within 2 hours.', rating: 5 },
-  { name: 'Sarra M.', city: 'Sousse', text: 'Subscribed to Netflix and Spotify same day. Super fast and trusted!', rating: 5 },
-  { name: 'Youssef K.', city: 'Sfax', text: 'Topped up my Free Fire diamonds in 10 minutes. Highly recommend!', rating: 5 },
+  { name: 'Amine Hamouda.', city: 'Tunis', text: 'Awel mara nesta3mou site hadha w tal3et yasser sahla lahkaya .merci support', rating: 5 },
+  { name: 'Sarra Mathlouthi.', city: 'Sousse', text: 'Super fast and trusted!', rating: 5 },
+  { name: 'Youssef Kasem.', city: 'Sfax', text: 'Bravo , haja jdida f Tunis w aswem bahiya par rapport sitet okhra. Highly recommend!', rating: 5 },
 ];
 
 const FAQS = [
