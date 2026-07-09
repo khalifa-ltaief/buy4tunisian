@@ -4,15 +4,15 @@
   --gold: #C9A84C;
   --gold-light: #E8C97A;
   --gold-dim: #8a6f2e;
-  --bg: #0A0A0F;
-  --bg2: #111118;
-  --bg3: #16161F;
-  --bg4: #1E1E2A;
+  --bg: #F0EEE8;
+  --bg2: #9A9890;
+  --bg3: #5A5855;
+  --bg4: #f7f7fa;
   --border: rgba(201,168,76,0.15);
   --border2: rgba(255,255,255,0.06);
-  --text: #F0EEE8;
-  --text2: #9A9890;
-  --text3: #5A5855;
+  --text: #0A0A0F;
+  --text2: #111118;
+  --text3: #16161F;
   --radius: 12px;
   --radius-lg: 20px;
 }
