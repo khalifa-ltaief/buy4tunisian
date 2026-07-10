@@ -27,7 +27,7 @@ const CATEGORIES = {
   },
 };
 
-const PAYMENT_METHODS = ['D17', 'Binance'];
+const PAYMENT_METHODS = ['Binance'];
 
 export default function Dashboard() {
   const { user, logout } = useAuth();
