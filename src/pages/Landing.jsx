@@ -54,7 +54,7 @@ const CATEGORIES = [
 const STEPS = [
   { num: '01', title: 'Create Your Account', desc: 'Sign up in seconds. No international card needed.', icon: '👤' },
   { num: '02', title: 'Submit Your Request', desc: 'Choose what you want, fill in the details and send.', icon: '📋' },
-  { num: '03', title: 'Pay Locally', desc: 'Pay via D17 or Binance — 100% Tunisian-friendly.', icon: '💳' },
+  { num: '03', title: 'Pay Locally', desc: 'Pay via  Binance — 100% Tunisian-friendly.', icon: '💳' },
   { num: '04', title: 'Get Your Access', desc: 'We handle everything and deliver to your dashboard.', icon: '🎓' },
 ];
 
@@ -65,7 +65,7 @@ const TESTIMONIALS = [
 ];
 
 const FAQS = [
-  { q: 'Which payment methods do you accept?', a: 'We accept D17 and Binance — all Tunisian-friendly payment methods.' },
+  { q: 'Which payment methods do you accept?', a: 'We accept  Binance — all Tunisian-friendly payment methods.' },
   { q: 'How long does it take to get my order?', a: "Usually within a few hours after payment confirmation. We notify you as soon as it's ready." },
   { q: 'Which services do you support?', a: 'We support online courses, subscriptions like Netflix and Spotify, game top-ups, and much more. Just ask!' },
   { q: 'Is it safe and secure?', a: 'Yes. Everything is delivered privately through your personal dashboard.' },
@@ -205,7 +205,7 @@ export default function Landing() {
                 borderRadius: 10, padding: '12px 14px',
                 display: 'flex', justifyContent: 'space-between', alignItems: 'center',
               }}>
-                <span style={{ fontSize: 13, color: 'var(--text2)' }}>Paid via D17</span>
+                <span style={{ fontSize: 13, color: 'var(--text2)' }}>Paid via BINANCE</span>
                 <span style={{ fontSize: 15, fontWeight: 700, color: 'var(--gold)' }}>180 DT</span>
               </div>
             </div>
